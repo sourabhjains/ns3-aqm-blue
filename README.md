@@ -1,3 +1,3 @@
 # ns3-aqm-blue
 
-Blue is an AQL algorithm like RED,ARED,etc.
+Blue is an AQM algorithm like RED,ARED,etc.
